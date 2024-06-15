@@ -1,2 +1,2 @@
 # PythonSpace
-This is Yian's code learning space
+This is Yian's Python learning space
